@@ -157,6 +157,11 @@ LEAGUE_DICT = {
         "season_start": "Aug",
         "season_end": "May",
     },
+    "FRA-Ligue 2": {
+        "FBref": "Ligue 2",
+        "season_start": "Aug",
+        "season_end": "May",
+    },
     "INT-World Cup": {
         "FBref": "FIFA World Cup",
         "FotMob": "INT-World Cup",
