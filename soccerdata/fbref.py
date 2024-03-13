@@ -23,6 +23,7 @@ FBREF_API = "https://fbref.com"
 BIG_FIVE_DICT = {
     "Serie A": "ITA-Serie A",
     "Ligue 1": "FRA-Ligue 1",
+    "Ligue 2": "FRA-Ligue 2",
     "La Liga": "ESP-La Liga",
     "Premier League": "ENG-Premier League",
     "Bundesliga": "GER-Bundesliga",
